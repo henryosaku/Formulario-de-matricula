@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   /* background colors */
   --brand-light: #f67841;
@@ -39,4 +45,8 @@
   --h2: 700 24px/120% var(--font-family);
   --h3: 700 20px/120% var(--font-family);
   --h4: 700 16px/120% var(--font-family);
+}
+
+body {
+  overflow: hidden;
 }
