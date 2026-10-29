@@ -46,7 +46,7 @@
   --h3: 700 20px/120% var(--font-family);
   --h4: 700 16px/120% var(--font-family);
 
-  zoom: 60%;
+  
 }
 
 body {
@@ -63,4 +63,16 @@ body {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
 }
