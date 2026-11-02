@@ -1,6 +1,7 @@
 @import url(fields/index.css);
 form {
-  margin-top: 3rem;
+  max-width: 33rem;
+  margin: 3rem 0 0 auto;
 }
 
 fieldset {

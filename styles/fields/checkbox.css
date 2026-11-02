@@ -7,8 +7,7 @@
 
   & strong {
     font-weight: 500;
-    color: var(--stroke-highlihgt);
-
+    color: var(--text-highlight);
   }
 }
 
